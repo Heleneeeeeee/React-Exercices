@@ -1,0 +1,27 @@
+.section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card {
+    width: 380px;
+    height: 300px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+p {
+    font-weight: bold;
+    font-size:1.5rem;
+}
+
+.dog-img {
+    width:100%;
+}
+
+.button {
+    display:none;
+}
